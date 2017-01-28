@@ -30,11 +30,11 @@ int main(){
 		break;
 		
 		case 3:
-			//funkcja
+			//funkcja mnozenie
 		break;
 		
 		case 4:
-			//funkcja
+			//funkcja dzielenie
 		break;
 		
 		default:break;
