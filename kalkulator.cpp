@@ -1,4 +1,5 @@
 #include <iostream>
+#include "funkcje.h"
 
 using namespace std;
 
@@ -8,7 +9,7 @@ int main(){
 	cout<<"1.Dodawanie"<<endl;
 	cout<<"2.Odejmowanie"<<endl;
 	cout<<"3.Mnozenie"<<endl;
-	cout<<"4.Dzielenie"<<ednl;
+	cout<<"4.Dzielenie"<<endl;
 	
 	
 	cout << "Wybor: ";
@@ -16,20 +17,22 @@ int main(){
 	
 	switch(wybor){
 		case 1:
-		//funkcja
+			//funkcja
 		break;
 		
 		case 2:
-		//funkcja
+			//funkcja
 		break;
 		
 		case 3:
-		//funkcja
+			//funkcja
 		break;
 		
 		case 4:
-		//funkcja
+			//funkcja
 		break;
+		
+		default:break;
 	}
 	return 0;
 }
