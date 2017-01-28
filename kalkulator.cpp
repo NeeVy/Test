@@ -15,7 +15,21 @@ int main(){
 	cin >> wybor;
 	
 	switch(wybor){
-			
+		case 1:
+		//funkcja
+		break;
+		
+		case 2:
+		//funkcja
+		break;
+		
+		case 3:
+		//funkcja
+		break;
+		
+		case 4:
+		//funkcja
+		break;
 	}
 	return 0;
 }
