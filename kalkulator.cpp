@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
 	int wybor = 0;
+	int a ,b;
 	cout<<"K A L K U L A T O R"<<endl;
 	cout<<"1.Dodawanie"<<endl;
 	cout<<"2.Odejmowanie"<<endl;
@@ -14,6 +15,10 @@ int main(){
 	
 	cout << "Wybor: ";
 	cin >> wybor;
+	cout << "A: ";
+	cin >> a;
+	cout << "B: ";
+	cin >> b;
 	
 	switch(wybor){
 		case 1:
@@ -21,7 +26,7 @@ int main(){
 		break;
 		
 		case 2:
-			//funkcja odejmowanie
+			Odejmowanie(a,b);
 		break;
 		
 		case 3:
