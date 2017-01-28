@@ -17,19 +17,19 @@ int main(){
 	
 	switch(wybor){
 		case 1:
-			//funkcja dodawanie
+			Dodawanie(a,b);
 		break;
 		
 		case 2:
-			//funkcja odejmowanie
+			//funkcja
 		break;
 		
 		case 3:
-			//funkcja mnozenie
+			//funkcja
 		break;
 		
 		case 4:
-			//funkcja dzielenie
+			//funkcja
 		break;
 		
 		default:break;
